@@ -1,0 +1,17 @@
+{
+  "name": "fm",
+  "version": "1.0.0",
+  "description": "File Manager",
+  "main": "fileManager.js",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fileManager.js"
+    
+  },
+  "author": "ybespalava",
+  "license": "ISC",
+  "homepage": "https://github.com/Bespalava/file-manager#readme"
+}
